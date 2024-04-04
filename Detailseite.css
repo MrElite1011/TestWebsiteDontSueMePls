@@ -165,7 +165,7 @@ h1{
     width: 1141px;
     height: 707px;
     clip-path: polygon(0 0, 100% 0, 70% 100%, 0% 100%);
-    background-image: url("../media/Huracan1.png");
+    background-image: url("../Huracan1.png");
     background-color: none;
     margin-top: -4px;
 }
@@ -176,7 +176,7 @@ h1{
     width: 812px;
     height: 630px;
     margin-left: -975px;
-    background-image: url("../media/huracan2.png");
+    background-image: url("../huracan2.png");
     box-shadow: 100px 100px 100px rgba(0, 0, 0, 0.6);
     clip-path: polygon(45% 0, 100% 0%, 100% 100%, 0% 100%);
     flex: 0.5;
@@ -246,7 +246,7 @@ h1{
     width: 1344px;
     height: 616px;
     clip-path: polygon(30% 0, 100% 0%, 77% 100%, 0% 100%);
-    background-image: url("../media/huracan3.png");
+    background-image: url("../huracan3.png");
     background-color: none;
     margin-top: -815px;
     margin-left: 910px;
@@ -257,7 +257,7 @@ h1{
     width: 1344px;
     height: 616px;
     clip-path: polygon(30% 0, 100% 0%, 70% 100%, 0% 100%);
-    background-image: url("../media/huracan4.png");
+    background-image: url("../huracan4.png");
     background-color: none;
     margin-top: -190px;
     margin-left: -60px;
@@ -266,7 +266,7 @@ h1{
 #huracan5 {
     width: 1008px;
     height: 672px;
-    background-image: url("../media/huracan5.png");
+    background-image: url("../huracan5.png");
     box-shadow: 100px 100px 100px rgba(0, 0, 0, 0.6);
     clip-path: polygon(0% 0, 100% 0%, 60% 100%, 0% 100%);
     justify-content: space-between;
